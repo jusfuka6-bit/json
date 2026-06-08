@@ -13,20 +13,6 @@
     ],
     "movies_list": [
         {
-            "title": "জযবগ",
-            "img": "ছত",
-            "desc": "ণভ",
-            "cat": [
-                "মঢ়"
-            ],
-            "links": [
-                {
-                    "text": "ভত",
-                    "link": "ঙচ"
-                }
-            ]
-        },
-        {
             "title": "Hotel Relax",
             "img": "https:\/\/ottbdmovie.wordpress.com\/wp-content\/uploads\/2026\/06\/mv5bntu1mguzowutmmqyns00ntm4ltlmyjmtn2y1zwfizmvjyjkzxkeyxkfqcgc404908329650175932267.jpg",
             "desc": "1080p Audio Bangla",
